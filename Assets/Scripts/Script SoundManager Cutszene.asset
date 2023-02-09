@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Script SoundManager Cutszene
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"argumentCount":1,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"PlaySound","$type":"System.String"}},"position":{"x":-501.0,"y":21.0},"guid":"717d5ebf-6597-45c7-851c-026e616536a5","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"ignoreCase":false,"options":["FootStep"],"defaultValues":{},"position":{"x":-282.0,"y":7.0},"guid":"b51e821f-ba9e-4fe7-88bc-9b912cbce702","$version":"A","$type":"Unity.VisualScripting.SwitchOnString","$id":"11"},{"chainable":false,"member":{"name":"Play","parameterTypes":[],"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null},"position":{"x":108.0,"y":-278.0},"guid":"c298a14a-5b40-4257-b08d-8c67c9cd8551","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"14"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"FootStepSound","$type":"System.String"},"object":null},"position":{"x":-177.0,"y":-263.0},"guid":"878f599d-bd4e-42e8-bf55-71da3b910b23","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"17"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"099327e6-2fe5-4370-8245-e4249a501486","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"%FootStep","destinationUnit":{"$ref":"14"},"destinationKey":"enter","guid":"47e4069c-3505-4e1a-814e-dd2bf6e4212d","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"argument_0","destinationUnit":{"$ref":"11"},"destinationKey":"selector","guid":"cee2412a-7305-4c58-a5b3-4c7c1720c0e3","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"value","destinationUnit":{"$ref":"14"},"destinationKey":"target","guid":"165ca6e4-81c0-454c-a982-5af35b7f25f0","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathZone
+  - PlayerSpawn
+  - SoundManager
+  - Vorhang
+  - Topf1
+  - Topf2
+  - Collider2
+  - F1
+  - Kassenband
+  - SpawnItems
+  - EndItems
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Falling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background Wand
+    uniqueID: 3763101443
+    locked: 0
+  - name: Background
+    uniqueID: 2580033583
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Default3
+    uniqueID: 3427694463
+    locked: 0
+  - name: Default2
+    uniqueID: 4242324909
+    locked: 0
+  - name: Joshi
+    uniqueID: 4021006197
+    locked: 0
+  - name: Foreground
+    uniqueID: 1546171389
+    locked: 0

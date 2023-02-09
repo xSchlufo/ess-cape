@@ -1,0 +1,377 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Anim_Cutszene
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 33c6cb21adbfb9b40836967d018ed56d, type: 3}
+    - time: 0.4
+      value: {fileID: 21300000, guid: 8b150ef8997a43444872ec0a296534f0, type: 3}
+    - time: 0.8
+      value: {fileID: 21300000, guid: 53d5aa1bc0a9fb7439c04f67804da6f2, type: 3}
+    - time: 1.2
+      value: {fileID: 21300000, guid: 660dc7a25aa0ec34c9494a1a1ddfaae8, type: 3}
+    - time: 1.6
+      value: {fileID: 21300000, guid: c0c60e52371eb03479e698a3d7a3f570, type: 3}
+    - time: 2
+      value: {fileID: 21300000, guid: d0a6525d24ab55141bcf10cf2143c835, type: 3}
+    - time: 2.4
+      value: {fileID: 21300000, guid: 8fa5906797e5696499d10fa096a98853, type: 3}
+    - time: 2.8
+      value: {fileID: 21300000, guid: d12a52c6dd4c5084b8c849400a2d6779, type: 3}
+    - time: 3.2
+      value: {fileID: 21300000, guid: 3607da4a26e674047bcfd4bb4aa71e56, type: 3}
+    - time: 3.6
+      value: {fileID: 21300000, guid: 822a43226f1048941b043c97738e5251, type: 3}
+    - time: 4
+      value: {fileID: 21300000, guid: 059dec98cb6732c439abb7a6be364195, type: 3}
+    - time: 4.4
+      value: {fileID: 21300000, guid: c3fc5aa28f67f734d821704e8b9e9eb4, type: 3}
+    - time: 4.8
+      value: {fileID: 21300000, guid: b10227990c51a7f41a91bcdaad8c8cf2, type: 3}
+    - time: 5.2
+      value: {fileID: 21300000, guid: e85b4951313af1a4385eb542e9bb5dc6, type: 3}
+    - time: 5.6
+      value: {fileID: 21300000, guid: 93a8a5535790fd747b5eb2d103741965, type: 3}
+    - time: 6
+      value: {fileID: 21300000, guid: 3574b12f24c94ef41baeda26aac2c501, type: 3}
+    - time: 6.4
+      value: {fileID: 21300000, guid: aee600f80248b60439110b3ee78ce6d8, type: 3}
+    - time: 6.8
+      value: {fileID: 21300000, guid: ab68c534d34317944af9b0bed4f84193, type: 3}
+    - time: 7.2
+      value: {fileID: 21300000, guid: c53459d9a8bfa154b840c56a75d2e666, type: 3}
+    - time: 7.6
+      value: {fileID: 21300000, guid: 6acd3eb1bcf816e46abf9bf3e18ea688, type: 3}
+    - time: 8
+      value: {fileID: 21300000, guid: a12861b2665a04442a2579001fe17247, type: 3}
+    - time: 8.4
+      value: {fileID: 21300000, guid: 001b630376779c34aa04c362325f2690, type: 3}
+    - time: 8.8
+      value: {fileID: 21300000, guid: 39cd375e479e65348a0be1edd6d9a11e, type: 3}
+    - time: 9.2
+      value: {fileID: 21300000, guid: 66d9a02b455ef7a439b4dcc734693bfd, type: 3}
+    - time: 9.6
+      value: {fileID: 21300000, guid: ed7ca9da390a47742af07fa5178652e8, type: 3}
+    - time: 10
+      value: {fileID: 21300000, guid: bd937a467073f7e478f398c8e6f85fc5, type: 3}
+    - time: 10.4
+      value: {fileID: 21300000, guid: 165a61e94c5fd474b9e76f239d6efff3, type: 3}
+    - time: 10.8
+      value: {fileID: 21300000, guid: 1f3170b69b41a5e408a5130986370f4e, type: 3}
+    - time: 11.2
+      value: {fileID: 21300000, guid: f55ac06f919d3bd49851f1f72b8e1d05, type: 3}
+    - time: 11.6
+      value: {fileID: 21300000, guid: e9eb9d6ab954826488a003614f542d91, type: 3}
+    - time: 12
+      value: {fileID: 21300000, guid: a3871e1ae77f0eb41a9de9833f49e694, type: 3}
+    - time: 12.4
+      value: {fileID: 21300000, guid: fa85d7e5568c501488d7866256ef9f88, type: 3}
+    - time: 12.8
+      value: {fileID: 21300000, guid: e85b4951313af1a4385eb542e9bb5dc6, type: 3}
+    - time: 13
+      value: {fileID: 21300000, guid: e85b4951313af1a4385eb542e9bb5dc6, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_SampleRate: 5
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 2015549526
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+      typeID: 114
+      customType: 0
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 33c6cb21adbfb9b40836967d018ed56d, type: 3}
+    - {fileID: 21300000, guid: 8b150ef8997a43444872ec0a296534f0, type: 3}
+    - {fileID: 21300000, guid: 53d5aa1bc0a9fb7439c04f67804da6f2, type: 3}
+    - {fileID: 21300000, guid: 660dc7a25aa0ec34c9494a1a1ddfaae8, type: 3}
+    - {fileID: 21300000, guid: c0c60e52371eb03479e698a3d7a3f570, type: 3}
+    - {fileID: 21300000, guid: d0a6525d24ab55141bcf10cf2143c835, type: 3}
+    - {fileID: 21300000, guid: 8fa5906797e5696499d10fa096a98853, type: 3}
+    - {fileID: 21300000, guid: d12a52c6dd4c5084b8c849400a2d6779, type: 3}
+    - {fileID: 21300000, guid: 3607da4a26e674047bcfd4bb4aa71e56, type: 3}
+    - {fileID: 21300000, guid: 822a43226f1048941b043c97738e5251, type: 3}
+    - {fileID: 21300000, guid: 059dec98cb6732c439abb7a6be364195, type: 3}
+    - {fileID: 21300000, guid: c3fc5aa28f67f734d821704e8b9e9eb4, type: 3}
+    - {fileID: 21300000, guid: b10227990c51a7f41a91bcdaad8c8cf2, type: 3}
+    - {fileID: 21300000, guid: e85b4951313af1a4385eb542e9bb5dc6, type: 3}
+    - {fileID: 21300000, guid: 93a8a5535790fd747b5eb2d103741965, type: 3}
+    - {fileID: 21300000, guid: 3574b12f24c94ef41baeda26aac2c501, type: 3}
+    - {fileID: 21300000, guid: aee600f80248b60439110b3ee78ce6d8, type: 3}
+    - {fileID: 21300000, guid: ab68c534d34317944af9b0bed4f84193, type: 3}
+    - {fileID: 21300000, guid: c53459d9a8bfa154b840c56a75d2e666, type: 3}
+    - {fileID: 21300000, guid: 6acd3eb1bcf816e46abf9bf3e18ea688, type: 3}
+    - {fileID: 21300000, guid: a12861b2665a04442a2579001fe17247, type: 3}
+    - {fileID: 21300000, guid: 001b630376779c34aa04c362325f2690, type: 3}
+    - {fileID: 21300000, guid: 39cd375e479e65348a0be1edd6d9a11e, type: 3}
+    - {fileID: 21300000, guid: 66d9a02b455ef7a439b4dcc734693bfd, type: 3}
+    - {fileID: 21300000, guid: ed7ca9da390a47742af07fa5178652e8, type: 3}
+    - {fileID: 21300000, guid: bd937a467073f7e478f398c8e6f85fc5, type: 3}
+    - {fileID: 21300000, guid: 165a61e94c5fd474b9e76f239d6efff3, type: 3}
+    - {fileID: 21300000, guid: 1f3170b69b41a5e408a5130986370f4e, type: 3}
+    - {fileID: 21300000, guid: f55ac06f919d3bd49851f1f72b8e1d05, type: 3}
+    - {fileID: 21300000, guid: e9eb9d6ab954826488a003614f542d91, type: 3}
+    - {fileID: 21300000, guid: a3871e1ae77f0eb41a9de9833f49e694, type: 3}
+    - {fileID: 21300000, guid: fa85d7e5568c501488d7866256ef9f88, type: 3}
+    - {fileID: 21300000, guid: e85b4951313af1a4385eb542e9bb5dc6, type: 3}
+    - {fileID: 21300000, guid: e85b4951313af1a4385eb542e9bb5dc6, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 13.2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.4
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.6
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.2
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.4
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.6
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.8
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.2
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.4
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.6
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.8
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 10
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 10.2
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 10.4
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 10.6
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 10.8
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 11
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 11.2
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 11.4
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 11.6
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 11.8
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 12
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 12.2
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 12.4
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 12.6
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 12.8
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 13
+    functionName: TriggerAnimationEvent
+    data: FootStep
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
